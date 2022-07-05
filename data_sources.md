@@ -24,7 +24,7 @@ Series of patitients age, gender and severity\
 Trasncriptome data on "GSE162562_RAW.tar"\
 108 raw samples 43 asymptomatic, 52 highliy exposed seronegative, 5 healthy controls, 4 with mild symtoms and 4 highly exposed seronegative foreign subjects.\
 \
-11 samples SC2 (Mujeres,            Hombres\
+11 samples     (Mujeres,            Hombres\
     0_12,       Mujeres 0_12,       Hombres 0_12\
     13_19,      Mujeres 13_19,      Hombres 13_19\
     20_mas,     Mujeres 20_mas,     Hombres 20_mas)\
