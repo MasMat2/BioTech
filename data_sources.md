@@ -23,6 +23,7 @@ Transcriptome data on "GSE150316_RPMNormCounts_final.txt.gz"
 Series of patitients age, gender and severity\
 Trasncriptome data on "GSE162562_RAW.tar"\
 108 raw samples 43 asymptomatic, 52 highliy exposed seronegative, 5 healthy controls, 4 with mild symtoms and 4 highly exposed seronegative foreign subjects.\
+\
 11 samples SC2 (Mujeres,            Hombres\
     0_12,       Mujeres 0_12,       Hombres 0_12\
     13_19,      Mujeres 13_19,      Hombres 13_19\
@@ -36,6 +37,7 @@ Possible error 'Seronegative, highly exposed' = 'Control' line 25 'Analisis_GSE1
 Series of patitients age, gender and infection (SC2, other_virus, no_virus)\
 Trasncriptome data on "GSE179277_all_adult_and_ped_samples_combined_counts_unfiltered.csv.gz"\
 237 raw samples from 83 with SARS-CoV-2, 39 with other respiratory viruses, 115 with no virus\
+\
 11 samples SC2 (Mujeres,            Hombres\
     0_12,       Mujeres 0_12,       Hombres 0_12\
     13_19,      Mujeres 13_19,      Hombres 13_19\
