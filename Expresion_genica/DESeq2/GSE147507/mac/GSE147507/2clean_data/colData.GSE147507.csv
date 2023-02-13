@@ -1,0 +1,5 @@
+cell_type,group,subject_status,GSM
+Series15_HealthyLungBiopsy_1,Lung Biopsy,Control,"No treatment - healthy 77 years old, male",GSM4462413
+Series15_HealthyLungBiopsy_2,Lung Biopsy,Control,"No treatment - healthy 72 years old, male",GSM4462414
+Series15_COVID19Lung_1,Lung Biopsy,COVID,No treatment; >60 years old male COVID-19 deceased patient,GSM4462415
+Series15_COVID19Lung_2,Lung Biopsy,COVID,No treatment; >60 years old male COVID-19 deceased patient,GSM4462416
