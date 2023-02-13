@@ -4,13 +4,13 @@ Se usaron 3 réplicas biológicas independientes por serie.
 Fold-change Series:
 1. NHBE SARS_CoV-2 (primary human lung epithelium)
 2. A549 SARS_CoV-2 (transformed lung alveolar)
-5. A549 SARS_CoV-2 
-6. A549 ACE2 SARS_CoV-2 (transduced with a vector expressing human ACE2)
+5. A549 SARS_CoV-2 (transformed lung alveolar)
+6. A549 ACE2 SARS_CoV-2 (transformed lung alveolar transduced with a vector expressing human ACE2)
 7. Calu3 SARS-CoV-2 (transformed lung-derived Calu-3)
 9. NHBE IFNB_4h (primary human lung epithelium treated with human interferon-beta)
-9. NHBE IFNB_6h
-9. NHBE IFNB_12h
-12. COVID19Lung
+9. NHBE IFNB_6h (primary human lung epithelium treated with human interferon-beta)
+9. NHBE IFNB_12h (primary human lung epithelium treated with human interferon-beta)
+12. COVID19Lung (primary human lung epithelium treated with human interferon-beta)
 16. A549-ACE2 SARS-CoV-2 (transformed lung alveolar transduced with a vector expressing human ACE2)
 16. A549-ACE2 SARS-CoV-2 Rux (Ruxolitinib pre-treatment)
 
