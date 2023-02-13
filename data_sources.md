@@ -17,7 +17,7 @@ Fold-change Series:
 - NHBE  = Primary human lung epithelium
 - A549  = Transformed lung alveolar
 - ACE2  = transduced with a vector expressing human ACE2
-- Calu3 = transformed lung-derived Calu-3
+- Calu3 = Transformed lung-derived Calu-3
 - IFNB  = treated with human interferon-beta
 - Rux   = ruxolitinib pre-treatment
 
