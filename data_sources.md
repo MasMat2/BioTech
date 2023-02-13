@@ -1,26 +1,33 @@
 ## GSE147507
-Transcriptome data on "GSE147507_RawReadCounts_Human.tsv.gz"
-El perfil de GEO afirma que se usaron 3 réplicas biológicas independientes por serie, pero estas muestras fueron tomadas de dos pacientes (hombre de 72, mujer de 60).
-Cuál es la tercera replica biológica?
+Se usaron 3 réplicas biológicas independientes por serie.
+
 Fold-change Series:
-1. NHBE SARS_CoV-2
-2. A549 SARS_CoV-2
-5. A549 SARS_CoV-2
-6. ACE2 SARS_CoV-2
-7. Calu3 SARS-CoV-2
-9. NHBE IFNB_4h 
+1. NHBE SARS_CoV-2 (primary human lung epithelium)
+2. A549 SARS_CoV-2 (transformed lung alveolar)
+5. A549 SARS_CoV-2 
+6. A549 ACE2 SARS_CoV-2 (transduced with a vector expressing human ACE2)
+7. Calu3 SARS-CoV-2 (transformed lung-derived Calu-3)
+9. NHBE IFNB_4h (primary human lung epithelium treated with human interferon-beta)
 9. NHBE IFNB_6h
 9. NHBE IFNB_12h
 12. COVID19Lung
-16. A549-ACE2 SARS-CoV-2
-16. A549-ACE2 SARS-CoV-2
+16. A549-ACE2 SARS-CoV-2 (transformed lung alveolar transduced with a vector expressing human ACE2)
+16. A549-ACE2 SARS-CoV-2 Rux (Ruxolitinib pre-treatment)
 
 ## GSE149312_corona_intestine
-Transcriptome data on files:\
-GSE149312_corona_intestine_exp1_ndata.csv.gz\
-GSE149312_corona_intestine_exp2_ndata.csv.gz
-Los archivos exp1 contienen 2 muestras biológicas (1, 6) infectadas con SARS-COV (a), o SARS-COV 2 (b) analizadas: antes, 24h o 60h después de la infección. Así la muestra 6a60 es la muestra biológica "6" infectada con SARS-COV (a) por 60h.
-Los archivos exp2 contienen muestras biológicas infectadas con SARS-COV (a) o SARS-COV 2 (b) analizadas: antes o 72 horas después de la infección.
+Los archivos exp1 contienen 2 muestras biológicas (1, 6) de organoides infectados con SARS-COV (a), o SARS-COV 2 (b) analizadas: antes, 24h o 60h después de la infección. Así la muestra 6a60 es la muestra biológica "6" infectada con SARS-COV (a) por 60h.
+
+1. 1b24 (small intestinal organoids)
+2. 1b60
+3. 6a24
+4. 6a60
+5. 6b24
+6. 6b60
+
+Los archivos exp2 contienen muestras biológicas de organoides infectadas con SARS-COV (a) o SARS-COV 2 (b) analizadas: antes o 72 horas después de la infección.
+
+7. 7a72
+8. 7b72
 
 ## GSE150316_RPMNormCounts_final
 Transcriptome data on "GSE150316_RPMNormCounts_final.txt.gz"
