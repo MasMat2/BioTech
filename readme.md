@@ -1,10 +1,10 @@
-1. Las referencias archivos de los cuales se extrajo informacion estan en el archivo 'data_sources.md'
+1. Las descripcion de las muestras que se usaron para calcular el fold-change esta en 'data_sources.md'
 
-2. El codigo para extraer la la informacion de RNA-seq y calcular el fold change se encuenra en libretas de Jupyter, en la carpeta 'Fold-change -> Scripts -> Notebooks'
+2. La carpeta 'Genes' contiene una lista de los genes que nos interesa incluir en los resultados fold-change.
 
-	Cada fuente cuenta con su propia libreta de Jupyter
+3. El codigo para extraer la la informacion de RNA-seq y calcular el fold change se encuentra en la carpeta 'Fold-change -> Scripts'
 
-3. La carpeta 'Genes' almacena infromacion acerca de genes que se deben incluir en el analisis.
+	Cada fuente cuenta con su propio Script o Notebook
 
-4. Los resultados fold-change se almacenan en la carpeta 'Fold-change'
+4. Los resultados fold-change estan en la carpeta 'Fold-change'
 
