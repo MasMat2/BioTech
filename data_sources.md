@@ -99,45 +99,5 @@ Transcriptome data on "GSE185557_count_matrix.csv.gz"\
 - fold_change_genes_3
 
 
-muestra{
-    id
-    edad
-    genero
-    control
-    comorbuilidad
-    tejido
-    tratamiento
-}
 
 
-
-categorias
-edad
-genero
-comorbilidad
-tejido
-
-
-construir heatmap del fold change
-
-revisar que pertenezcan a la misma distriucion los genes expresados diferencialmente
-
-determinar redes de senalizacion en
-https://reactome.org/
-https://www.kegg.jp/
-
-
-comparar con expresion normal en 
-https://gtexportal.org/home/
-
-
-inmmune
-metabolico
-nervioso sentral
-
-raa
-renina angiotensia aldosterona
-regulado por
-hipotalamo hipofisis 
-endocrino
-funcionamiento correcto buna presion alterial, metabolizacion glucosa lipidos
