@@ -14,12 +14,12 @@ Fold-change Series:
 16. A549-ACE2 SARS-CoV-2 
 16. A549-ACE2 SARS-CoV-2 
 
-- NHBE  = primary human lung epithelium
-- A549  = transformed lung alveolar
+- NHBE  = Primary human lung epithelium
+- A549  = Transformed lung alveolar
 - ACE2  = transduced with a vector expressing human ACE2
 - Calu3 = transformed lung-derived Calu-3
 - IFNB  = treated with human interferon-beta
-- Rux   = Ruxolitinib pre-treatment
+- Rux   = ruxolitinib pre-treatment
 
 
 ## GSE149312_corona_intestine
